@@ -1,2 +1,2 @@
-# CE3103
+# CE3103 Lab
 NTU Embedded Programming
